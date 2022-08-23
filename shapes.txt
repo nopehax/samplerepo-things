@@ -3,3 +3,9 @@ oval
 rectangle
 square
 rhombus
+
+adding some experimental shapes here for branching :)
+chair
+torniquet
+smoke alarm
+fire extinguisher
