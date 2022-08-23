@@ -1,4 +1,4 @@
-apples
+avocado
 berries
 cherries
 dragon fruit
@@ -7,4 +7,5 @@ honeydew
 jackfruit
 kiwi
 longan
+mangosteen
 
