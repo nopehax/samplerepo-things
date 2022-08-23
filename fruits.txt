@@ -2,4 +2,9 @@ apples
 berries
 cherries
 dragon fruit
+grapes
+honeydew
+jackfruit
+kiwi
+longan
 
